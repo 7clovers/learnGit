@@ -3,9 +3,12 @@ h1 {
 }
 
 body {
+    width: 500px;
+    margin: auto;
     background-color: blue;
 }
 
 blockquote {
     color: white;
 }
+
